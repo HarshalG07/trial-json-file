@@ -1,26 +1,12 @@
+
 {
-  "name": "John Doe",
-  "age": 30,
-  "email": "john.doe@example.com",
-  "address": {
-    "street": "123 Main St",
-    "city": "Somewhere",
-    "state": "CA",
-    "postalCode": "12345"
-  },
-  "phoneNumbers": [
+  "posts": [
     {
-      "type": "home",
-      "number": "555-1234"
-    },
-    {
-      "type": "work",
-      "number": "555-5678"
+      "id": 1,
+      "title": "hello"
     }
   ],
-  "isActive": true,
-  "friends": [
-    "Jane Smith",
-    "Mark Johnson"
-  ]
+  "profile": {
+    "name": "typicode"
+  }
 }
